@@ -240,7 +240,7 @@ main:focus {
   gap: 18px 16px;
 }
 
-#posts{
+#posts {
   margin-top: 40px !important;
 }
 
@@ -702,7 +702,7 @@ textarea {
   background-color: #2E4053;
 }
 
-.fav-card{
+.fav-card {
   margin-top: 120px;
   display: flex;
   justify-content: space-between;
@@ -744,7 +744,7 @@ textarea {
   color: #1B2631;
 }
 
-.fav-card input{
+.fav-card input {
   border: none;
   background: none;
   outline: none;
@@ -763,7 +763,7 @@ textarea {
   justify-content: center;
 }
 
-.restaurantIsEmpty img{
+.restaurantIsEmpty img {
   margin-top: -80px;
   width: 500px;
 }
@@ -772,7 +772,7 @@ textarea {
   font-size: 23px;
   font-weight: 600;
   text-align: center;
-  color:#839192;
+  color: #839192;
   margin-top: -60px;
 }
 
